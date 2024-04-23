@@ -53,22 +53,22 @@ package com.example.andriodx
 //
 //
 //}
-fun main (args: Arrray<String>){
-    var age = arrayOf(1,2,3)
-    println(age)
-    println("The first element od age is " + age[0])
-    println("The second elements of age is " + age[1])
-    println("The third elemets of  age is " + age[2])
-
-    println("***************************")
-
-
-    var name = arrayOf("ram" , "shyam" , "Hari")
-    name[1] = "Sandis"
-    println("The first elements of name is " + name[0])
-    println("The second elemets of name is " + name[1])
-    println("The third elemts od anme is " + name[2])
-
-
-    println(name.size)
-}
+//fun main (args: Arrray<String>){
+//    var age = arrayOf(1,2,3)
+//    println(age)
+//    println("The first element od age is " + age[0])
+//    println("The second elements of age is " + age[1])
+//    println("The third elemets of  age is " + age[2])
+//
+//    println("***************************")
+//
+//
+//    var name = arrayOf("ram" , "shyam" , "Hari")
+//    name[1] = "Sandis"
+//    println("The first elements of name is " + name[0])
+//    println("The second elemets of name is " + name[1])
+//    println("The third elemts od anme is " + name[2])
+//
+//
+//    println(name.size)
+//}
