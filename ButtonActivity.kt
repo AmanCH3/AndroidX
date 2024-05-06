@@ -4,13 +4,9 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.CheckBox
 import android.widget.Toast
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.constraintlayout.widget.ConstraintSet.Constraint
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.google.android.material.snackbar.Snackbar
 
 class ButtonActivity : AppCompatActivity() {
@@ -31,7 +27,7 @@ class ButtonActivity : AppCompatActivity() {
         checkBoxDialog = findViewById(R.id.checkBoxdialog)
         checkBoxbutton = findViewById(R.id.checkBoxbutton)
         checkBoxbutton = findViewById(R.id.checkBoxbutton)
-        main = findViewById(R.id.main)
+        main = findViewById(R.id.naviagete111)
     checkBoxToast.setOnClickListener{
 
         checkBoxsnackbar.isChecked = false
